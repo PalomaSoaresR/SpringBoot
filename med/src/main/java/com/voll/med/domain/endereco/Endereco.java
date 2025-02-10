@@ -1,4 +1,4 @@
-package com.voll.med.endereco;
+package com.voll.med.domain.endereco;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

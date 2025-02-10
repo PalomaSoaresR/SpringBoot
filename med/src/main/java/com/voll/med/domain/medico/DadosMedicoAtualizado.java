@@ -1,6 +1,6 @@
-package com.voll.med.medico;
+package com.voll.med.domain.medico;
 
-import com.voll.med.endereco.Endereco;
+import com.voll.med.domain.endereco.Endereco;
 
 public record DadosMedicoAtualizado(
     Long id,

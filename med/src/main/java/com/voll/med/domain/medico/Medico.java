@@ -1,7 +1,7 @@
-package com.voll.med.medico;
+package com.voll.med.domain.medico;
 
-import com.voll.med.endereco.DadosEndereco;
-import com.voll.med.endereco.Endereco;
+import com.voll.med.domain.endereco.DadosEndereco;
+import com.voll.med.domain.endereco.Endereco;
 
 import jakarta.persistence.Embedded;
 import jakarta.persistence.Entity;

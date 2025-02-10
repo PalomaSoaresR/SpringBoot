@@ -1,6 +1,6 @@
-package com.voll.med.medico;
+package com.voll.med.domain.medico;
 
-import com.voll.med.endereco.DadosEndereco;
+import com.voll.med.domain.endereco.DadosEndereco;
 
 import jakarta.validation.constraints.NotNull;
 

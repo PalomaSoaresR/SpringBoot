@@ -1,4 +1,4 @@
- package com.voll.med.medico;
+ package com.voll.med.domain.medico;
 
 public record ListarMedicos(Long id, String nome, String email, String crm, Especialidades especialidades) {
    
